@@ -91,7 +91,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik heb nog een achterstand helaas. Maar waar ik nu mee bezig ben gaat best vloeiend. Standaard html. In de lessen vond ik de CSS best leuk, dus als ik moeite doe komt dat goed. Ik zou graag feedback willen op mijn HTML, de semantiek.
 
 
   ### Agenda voor meeting
@@ -232,7 +232,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
+  1. bron 1 https://blog.hubspot.com/website/html-dropdown Dropdown list
   2. bron 2
   3. ...
 

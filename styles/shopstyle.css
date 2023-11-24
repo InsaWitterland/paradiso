@@ -1,0 +1,26 @@
+header {
+    min-height:4em;
+    padding:1em .75em;
+    line-height:1;
+    display: flex;
+}
+
+header section img {
+	height: 0.2em;
+    display: flex;
+    margin-top: 0.4em;
+}
+
+header nav ul {
+    background-color: yellow;
+}
+
+h1 {
+	color:pink;
+}
+
+main ul li img {
+    width: 60%;
+    border: 0;
+}
+
